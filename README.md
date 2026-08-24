@@ -97,7 +97,7 @@ You can find my profile on LinkedIn Matheos Moraes. I’m currently looking for 
 ### 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=madeosdev&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=madeosdev&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
 
 
 <!--
