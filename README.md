@@ -14,10 +14,10 @@ Currently, I’m studying Systems Analysis and Development at FATEC Guaratinguet
 You can find my profile on LinkedIn Matheos Moraes. I’m currently looking for an internship or Junior-level position.
 
  <p align="left">
-      <a href="https://github.com/madeosdev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/madeosdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/madeosdev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/madeosdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/matheosmoraes?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/matheosmoraes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/matheosmoraes?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheosmoraes?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 
